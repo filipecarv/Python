@@ -1,1 +1,1 @@
-Meus codigos em python!!
+Atividades de Manipulação de Strings
