@@ -1,0 +1,7 @@
+tupla = (22,13,55,69,99)
+lista = list(tupla)
+Num = int(input('Diga um numero ai doido:'))
+lista.append(Num)
+tupla_modificada = tuple(lista)
+print('Lista modificada:', lista)
+print('Tupla modificada:', tupla_modificada)

@@ -1,0 +1,6 @@
+frase = input('Diga alguma frase ai meu bom:')
+renomear = input('Diga a palavra que voce deseja renomear meu bom:')
+Nova = input('Diga a nova palavra que voce deseja colocar meu bom:')
+frase_Nova = frase.replace(renomear, Nova)
+print('Sua frase sem modificações:',frase)
+print('Sua frase com as modificações:',frase_Nova)
