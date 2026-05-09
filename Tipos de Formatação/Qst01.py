@@ -1,0 +1,5 @@
+Nome = str(input('Diga seu nome ai:'))
+Idade = int(input('Diga sua idade ai:'))
+Nacionalidade = str(input('Diga sua nacionalidade ai:'))
+Hobby = str(input('Diga seu hobby ai:'))
+print(f'Seu nome é {Nome}, Tem {Idade} anos, Voce é {Nacionalidade} É seu hobby é '.format(Nome, Idade, Nacionalidade),Hobby)
